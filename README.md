@@ -18,3 +18,7 @@ TypeScript
 Framer Motion
 Tailwind CSS
 Three.js (if used for 3D elements)
+
+
+live website link
+https://hamza-portfolio-00.netlify.app/
