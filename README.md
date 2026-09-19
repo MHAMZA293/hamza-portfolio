@@ -39,7 +39,7 @@
 ### Visit the live website
 
 <a href="https://www.hamzas.engineer">
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-View%20Live%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-View%20Live%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Live Website">
 </a>
 
 <br><br>
@@ -64,6 +64,20 @@ My current focus is on strengthening my skills in:
 * REST API Development
 * Cloud Computing
 * Software Engineering
+
+---
+
+## Current Focus
+
+Currently working on:
+
+* AI and Machine Learning projects
+* AI-based plant disease detection and treatment recommendation
+* Full-Stack Web Development
+* Flutter Mobile Application Development
+* REST API Development
+* Cloud Computing with AWS
+* Building and deploying practical software projects
 
 ---
 
@@ -317,15 +331,17 @@ tailwind.config.js
 
 <div align="center">
 
-<a href="https://www.hamzas.engineer">
-  <img src="https://img.shields.io/badge/Portfolio-hamzas.engineer-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://github.com/MHAMZA293">
-  <img src="https://img.shields.io/badge/GitHub-MHAMZA293-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/hamza-khan-9b2841364">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div>
+  <a href="https://www.hamzas.engineer">
+    <img src="https://img.shields.io/badge/Portfolio-hamzas.engineer-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/MHAMZA293">
+    <img src="https://img.shields.io/badge/GitHub-MHAMZA293-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-khan-9b2841364">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hamza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 </div>
 
